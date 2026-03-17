@@ -1,0 +1,5 @@
+{
+  "name": "CodeQuest",
+  "description": "A gamified programming learning platform like Codeforces",
+  "requestFramePermissions": []
+}
